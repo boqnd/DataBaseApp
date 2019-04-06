@@ -1,0 +1,11 @@
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/bin/Debug/netcoreapp2.0/SQLapp.deps.json
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/bin/Debug/netcoreapp2.0/SQLapp.runtimeconfig.json
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/bin/Debug/netcoreapp2.0/SQLapp.runtimeconfig.dev.json
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/bin/Debug/netcoreapp2.0/SQLapp.dll
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/bin/Debug/netcoreapp2.0/SQLapp.pdb
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.csprojAssemblyReference.cache
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.csproj.CoreCompileInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.AssemblyInfoInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.AssemblyInfo.cs
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.dll
+/Users/boyandonchev/Documents/Programming/C#/SQLapp/obj/Debug/netcoreapp2.0/SQLapp.pdb

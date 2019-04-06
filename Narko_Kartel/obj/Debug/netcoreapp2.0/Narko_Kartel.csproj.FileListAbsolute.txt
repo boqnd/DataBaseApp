@@ -1,0 +1,14 @@
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.deps.json
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.runtimeconfig.json
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.runtimeconfig.dev.json
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.dll
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.pdb
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.csprojAssemblyReference.cache
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.csproj.CoreCompileInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.AssemblyInfoInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.AssemblyInfo.cs
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.dll
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/Debug/netcoreapp2.0/Narko_Kartel.pdb
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll

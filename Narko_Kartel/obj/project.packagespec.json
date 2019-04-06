@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/Narko_Kartel.csproj",
+    "projectName": "Narko_Kartel",
+    "projectPath": "/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/Narko_Kartel.csproj",
+    "outputPath": "/Users/boyandonchev/Documents/Programming/C#/Narko_Kartel/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[3.0.0-preview3.19153.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[3.0.0-preview3.19153.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.13.0, )"
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "[4.7.0-preview3.19128.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

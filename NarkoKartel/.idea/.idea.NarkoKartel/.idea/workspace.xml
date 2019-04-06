@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11850020-4d2c-43a3-b0a4-f78fdc2b0aab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/CommandReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Controller/NarkoKartelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/TestConnectingSQL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Service/IService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/NarkoKartelContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Service/Commands.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Drug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/NarkoKartelContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/20190311204313_Initial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Dealer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Money.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NarkoKartel/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/OutputPrinter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SqlServerSample/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/20190311205331_Money.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/20190311205331_Money.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Buyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/ConstantStrings.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Program.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Data/Configuration.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Presentation/CommandReader.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Presentation/OutputPrinter.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Controller/Commands.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Service/IService.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Controller/NarkoKartelController.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Data/NarkoKartelContext.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Data/Model/Buyer.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Data/Model/Drug.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Data/Model/Dealer.cs" />
+        <option value="$PROJECT_DIR$/../Narko_Kartel/Service/Commands.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1129" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="false" />
+      <autoscrollFromSource SolutionExplorer="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Narko_Kartel" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Narko_Kartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controller" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Narko_Kartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Presentation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Narko_Kartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NarkoKartel" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestProject1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SQLapp/SQLapp.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Narko_Kartel">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Narko_Kartel" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Narko_Kartel/bin/Debug/netcoreapp2.0/Narko_Kartel.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Narko_Kartel" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../Narko_Kartel/Narko_Kartel.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLapp" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../SQLapp/bin/Debug/netcoreapp2.0/SQLapp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SQLapp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../SQLapp/SQLapp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Narko_Kartel" />
+        <item itemvalue=".NET Project.SQLapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11850020-4d2c-43a3-b0a4-f78fdc2b0aab" name="Default Changelist" comment="" />
+      <created>1552161559446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552161559446</updated>
+      <workItem from="1552161560826" duration="685000" />
+      <workItem from="1552290380289" duration="3505000" />
+      <workItem from="1552295907762" duration="923000" />
+      <workItem from="1552377378434" duration="3298000" />
+      <workItem from="1552553573828" duration="58000" />
+      <workItem from="1552553634680" duration="86000" />
+      <workItem from="1552553763724" duration="847000" />
+      <workItem from="1554489379774" duration="134000" />
+      <workItem from="1554489572753" duration="4194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24436000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13160518" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09426752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33503184" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49928468" weight="0.21910828" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.07328833" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.9057325" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5007153" side_tool="true" weight="0.37961784" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.62547773" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.084076434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17070064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49928468" weight="0.37961784" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.9057325" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5007153" side_tool="true" weight="0.37961784" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.8675159" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../Narko_Kartel/Service/Commands.cs</url>
+          <line>31</line>
+          <properties documentPath="$PROJECT_DIR$/../Narko_Kartel/Service/Commands.cs" initialLine="31">
+            <startOffsets>
+              <option value="856" />
+            </startOffsets>
+            <endOffsets>
+              <option value="857" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NarkoKartel/NarkoKartel.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NarkoKartel.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NarkoKartel/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Controller/Commands.cs" />
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/TestConnectingSQL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1553205579000" expanded="false" signature="6:61" ph="..." />
+            <marker date="1553205579000" expanded="true" signature="79:957" ph="{...}" />
+            <marker date="1553205579000" expanded="true" signature="123:955" ph="{...}" />
+            <marker date="1553205579000" expanded="true" signature="171:949" ph="{...}" />
+            <marker date="1553205579000" expanded="true" signature="230:673" ph="{...}" />
+            <marker date="1553205579000" expanded="true" signature="536:659" ph="{...}" />
+            <marker date="1553205579000" expanded="true" signature="708:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1553070633032" expanded="false" signature="6:105" ph="..." />
+            <marker date="1553070633032" expanded="true" signature="123:355" ph="{...}" />
+            <marker date="1553070633032" expanded="true" signature="143:353" ph="{...}" />
+            <marker date="1553070633032" expanded="true" signature="189:347" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/CommandReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <marker date="1552558081000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1552558081000" expanded="true" signature="78:3940" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="118:3938" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="159:239" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="317:470" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="529:1066" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="1136:1836" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="1904:2351" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="2407:2797" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="2854:3446" ph="{...}" />
+            <marker date="1552558081000" expanded="true" signature="3510:3932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/ConstantStrings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+          <folding>
+            <marker date="1553421477000" expanded="true" signature="44:3711" ph="{...}" />
+            <marker date="1553421477000" expanded="true" signature="86:3709" ph="{...}" />
+            <marker date="1553421477000" expanded="true" signature="147:544" ph="{...}" />
+            <marker date="1553421477000" expanded="true" signature="609:2053" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Money.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1552337486000" expanded="true" signature="73:240" ph="{...}" />
+            <marker date="1552337486000" expanded="true" signature="98:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1552332717000" expanded="false" signature="6:65" ph="..." />
+            <marker date="1552332717000" expanded="true" signature="88:611" ph="{...}" />
+            <marker date="1552332717000" expanded="true" signature="121:609" ph="{...}" />
+            <marker date="1552332717000" expanded="true" signature="244:305" ph="{...}" />
+            <marker date="1552332717000" expanded="true" signature="353:603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/20190311204313_Initial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1552336993000" expanded="false" signature="6:93" ph="..." />
+            <marker date="1552336993000" expanded="true" signature="122:3336" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="169:3334" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="245:3014" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="385:1015" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="1054:1153" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="1284:1780" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="1819:1916" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="2048:2401" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="2440:2845" ph="{...}" />
+            <marker date="1552336993000" expanded="true" signature="3087:3328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Migrations/20190311205331_Money.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1552337611000" expanded="true" signature="76:824" ph="{...}" />
+            <marker date="1552337611000" expanded="true" signature="121:822" ph="{...}" />
+            <marker date="1552337611000" expanded="true" signature="197:651" ph="{...}" />
+            <marker date="1552337611000" expanded="true" signature="335:497" ph="{...}" />
+            <marker date="1552337611000" expanded="true" signature="536:639" ph="{...}" />
+            <marker date="1552337611000" expanded="true" signature="724:816" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/NarkoKartelContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <marker date="1554564903611" expanded="false" signature="6:90" ph="..." />
+            <marker date="1554564903611" expanded="true" signature="113:1121" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="163:1119" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="206:237" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="312:345" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="665:733" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="820:1113" ph="{...}" />
+            <marker date="1554564903611" expanded="true" signature="953:1055" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Buyer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <marker date="1554572087840" expanded="false" signature="6:81" ph="..." />
+            <marker date="1554572087840" expanded="true" signature="110:647" ph="{...}" />
+            <marker date="1554572087840" expanded="true" signature="135:645" ph="{...}" />
+            <marker date="1554572087840" expanded="true" signature="170:203" ph="{...}" />
+            <marker date="1554572087840" expanded="true" signature="255:351" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Drug.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1554573219753" expanded="false" signature="6:81" ph="..." />
+            <marker date="1554573219753" expanded="true" signature="110:806" ph="{...}" />
+            <marker date="1554573219753" expanded="true" signature="134:804" ph="{...}" />
+            <marker date="1554573219753" expanded="true" signature="162:195" ph="{...}" />
+            <marker date="1554573219753" expanded="true" signature="272:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Data/Model/Dealer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <marker date="1554574304151" expanded="false" signature="6:81" ph="..." />
+            <marker date="1554574304151" expanded="true" signature="110:1012" ph="{...}" />
+            <marker date="1554574304151" expanded="true" signature="136:1010" ph="{...}" />
+            <marker date="1554574304151" expanded="true" signature="166:199" ph="{...}" />
+            <marker date="1554574304151" expanded="true" signature="286:506" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Service/Commands.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="636" column="45" selection-start-line="636" selection-start-column="45" selection-end-line="636" selection-end-column="45" />
+          <folding>
+            <marker date="1554574670000" expanded="false" signature="6:196" ph="..." />
+            <marker date="1554574670000" expanded="true" signature="222:21172" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="261:21170" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="18904:18914" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="18932:19069" ph="/// &lt;paySalaries&gt; ... " />
+            <marker date="1554574670000" expanded="true" signature="19099:19284" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="19302:19582" ph="/// &lt;buyDrugs&gt; ... " />
+            <marker date="1554574670000" expanded="true" signature="19610:20667" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="19685:20508" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="19833:19946" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="19981:20073" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="20106:20256" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="20539:20657" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="20685:20820" ph="/// &lt;steal&gt; ... " />
+            <marker date="1554574670000" expanded="true" signature="20846:20947" ph="{...}" />
+            <marker date="1554574670000" expanded="true" signature="20965:21063" ph="/// &lt;end&gt; ... " />
+            <marker date="1554574670000" expanded="true" signature="21100:21164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Presentation/OutputPrinter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1340">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <marker date="1553167427792" expanded="false" signature="6:110" ph="..." />
+            <marker date="1553167427792" expanded="true" signature="141:5810" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="181:5808" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="221:471" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="352:427" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="516:697" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="730:1131" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="1171:1256" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="1290:1460" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="1506:2149" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="2196:2725" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="2776:2969" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="3031:3487" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="3128:3333" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="3554:4145" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="3719:3991" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="4200:4685" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="4362:4531" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="4735:5138" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="5190:5554" ph="{...}" />
+            <marker date="1553167427792" expanded="true" signature="5609:5802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Service/IService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1554489478971" expanded="true" signature="24:526" ph="{...}" />
+            <marker date="1554489478971" expanded="true" signature="56:524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Narko_Kartel/Controller/NarkoKartelController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="133" column="21" lean-forward="true" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
+          <folding>
+            <marker date="1554564230000" expanded="false" signature="6:81" ph="..." />
+            <marker date="1554564230000" expanded="true" signature="110:7036" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="151:7034" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="258:338" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="386:417" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="456:540" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="577:746" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="614:736" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="795:7019" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="895:7009" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="1189:1283" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="1308:1987" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="1371:1965" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2088:2182" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2207:2294" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2394:2488" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2513:2606" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2704:2798" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="2823:2914" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3012:3106" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3131:3222" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3320:3414" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3439:3769" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3510:3612" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3641:3747" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3866:3960" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="3985:4312" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4055:4155" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4184:4290" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4409:4503" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4528:4853" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4597:4696" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4725:4831" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="4951:5046" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5071:5155" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5252:5346" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5371:5698" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5441:5541" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5570:5676" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5795:5889" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5914:6247" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="5987:6090" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="6119:6225" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="6346:6440" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="6465:6550" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="6647:6741" ph="{...}" />
+            <marker date="1554564230000" expanded="true" signature="6766:6849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4720">
+          <caret line="236" column="31" lean-forward="true" selection-start-line="236" selection-start-column="31" selection-end-line="236" selection-end-column="31" />
+          <folding>
+            <marker date="1554575192000" expanded="true" signature="6:214" ph="..." />
+            <marker date="1554575192000" expanded="true" signature="231:9954" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="256:9952" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="306:326" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="379:1743" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="580:681" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="1802:2944" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="1939:2024" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="3002:4297" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="3169:3263" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="4352:5686" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="4549:4643" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="5740:7074" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="5937:6031" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="7136:8601" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="7337:7438" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="8656:9946" ph="{...}" />
+            <marker date="1554575192000" expanded="true" signature="8857:8958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
